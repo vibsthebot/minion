@@ -19892,7 +19892,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "aee98dbe-bce2-4769-904f-e339e47579df")
 		(property "Reference" "D6"
 			(at 316.23 124.4599 90)
@@ -19904,7 +19903,7 @@
 			)
 		)
 		(property "Value" "S-LMBR340FT1G"
-			(at 316.23 126.9999 90)
+			(at 319.532 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
