@@ -14714,7 +14714,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C107671"
+		(property "LCSC" ""
 			(at 189.23 207.01 0)
 			(effects
 				(font
@@ -14723,7 +14723,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "296-36707-1-ND"
 			(at 189.23 207.01 0)
 			(effects
 				(font
@@ -18400,7 +18400,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "4518-AMS1117-3.3CT-ND"
 			(at 205.74 77.47 0)
 			(effects
 				(font
