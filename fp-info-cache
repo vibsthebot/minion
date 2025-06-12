@@ -1,4 +1,11 @@
-25582234837937532
+25585729876676166
+473092651
+CONN12_47309-2651_MOL
+
+
+0
+12
+12
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -71921,6 +71928,13 @@ Oscillator
 Oscillator_SeikoEpson_SG-8002DC
 8-lead dip package, row spacing 7.62 mm (300 mils)
 DIL DIP PDIP 2.54mm 7.62mm 300mil
+0
+4
+4
+PJ-320D-A
+HRO_PJ-320D-A
+
+
 0
 4
 4
